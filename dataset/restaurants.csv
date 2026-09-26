@@ -1,0 +1,121 @@
+restaurant_id,restaurant_name,country,city,cuisine_type,price_level,restaurant_rating,average_preparation_time,restaurant_join_date,restaurant_size,average_daily_orders
+1,Casa Lefevre,Poland,Warsaw,Chinese,4,4.2,18,2023-07-22,Large,128
+2,Meyer Express,Germany,Berlin,Greek,4,4.5,25,2024-07-28,Large,137
+3,The French Plate,Belgium,Brussels,French,3,3.5,29,2023-07-01,Large,122
+4,Mexican Street Food,Portugal,Porto,Mexican,1,4.0,27,2024-05-23,Small,24
+5,Bella Jensen,France,Marseille,Japanese,3,4.4,21,2021-06-01,Medium,65
+6,Nikolaou Express,Netherlands,Amsterdam,Greek,2,4.1,21,2024-10-04,Medium,73
+7,Martin Deli,Austria,Vienna,French,3,4.7,30,2023-06-10,Medium,65
+8,Vegan Kitchen,Czechia,Prague,Vegan,4,3.5,23,2020-09-21,Medium,85
+9,Bianchi Bistro,Portugal,Lisbon,Vegan,2,3.4,25,2020-09-11,Large,142
+10,Fernandez Express,Sweden,Stockholm,Japanese,3,4.4,34,2021-06-12,Medium,65
+11,Little Italian,Sweden,Stockholm,Italian,4,4.4,27,2020-05-17,Large,122
+12,Chinese Corner,Italy,Rome,Chinese,4,4.0,22,2021-07-13,Large,125
+13,The Chinese Spot,Germany,Cologne,Chinese,1,4.3,25,2025-05-19,Small,30
+14,Casa Gruber,Spain,Valencia,Spanish,2,4.4,22,2021-04-19,Medium,63
+15,Local cuisine Garden,Italy,Naples,Local cuisine,3,3.8,18,2023-06-12,Medium,68
+16,The Chinese Plate,Finland,Helsinki,Chinese,4,3.8,24,2025-04-17,Small,37
+17,The French Plate (Seville),Spain,Seville,French,2,4.2,28,2021-05-15,Small,16
+18,Vegan Corner,France,Lyon,Vegan,2,4.5,20,2023-10-09,Medium,69
+19,Virtanen's Table,Belgium,Brussels,Spanish,4,3.6,27,2022-06-09,Medium,69
+20,Italian & Co.,France,Paris,Italian,3,4.0,26,2021-07-18,Medium,77
+21,Little Chinese,Belgium,Antwerp,Chinese,1,4.0,26,2025-02-22,Medium,45
+22,Ferrari Bistro,France,Lyon,Mediterranean,2,4.3,27,2023-07-22,Medium,54
+23,Chinese Corner (Valencia),Spain,Valencia,Chinese,3,4.1,23,2022-05-17,Large,130
+24,Burgers House,Spain,Barcelona,Burgers,2,3.9,13,2024-05-25,Small,18
+25,Bakery & Co.,Germany,Hamburg,Bakery,2,4.6,12,2024-11-16,Small,33
+26,Weber Express,Norway,Bergen,Mexican,1,3.9,22,2024-03-25,Medium,37
+27,Vegan Corner (Wroclaw),Poland,Wroclaw,Vegan,1,4.0,19,2024-09-14,Medium,54
+28,The Chinese Plate (Vienna),Austria,Vienna,Chinese,4,3.5,32,2021-09-28,Large,133
+29,de Jong Express,Poland,Warsaw,Mexican,1,3.8,25,2021-11-11,Medium,92
+30,The Mexican Plate,Germany,Hamburg,Mexican,2,4.3,26,2021-04-05,Medium,48
+31,Andersson Bistro,Spain,Barcelona,Local cuisine,1,4.2,22,2023-10-08,Medium,67
+32,Bella Kowalski,Spain,Barcelona,Mexican,1,4.3,28,2024-05-07,Medium,71
+33,Chinese Street Food,France,Lyon,Chinese,2,4.3,25,2023-07-30,Small,18
+34,Mediterranean Street Food,Poland,Krakow,Mediterranean,2,4.9,27,2023-03-31,Medium,56
+35,Chinese Street Food (Hamburg),Germany,Hamburg,Chinese,3,3.8,23,2024-03-05,Medium,61
+36,Novak Deli,Germany,Berlin,Mediterranean,2,3.5,28,2020-12-24,Large,120
+37,Bella Costa,Czechia,Brno,Pizza,1,3.7,23,2021-12-24,Small,20
+38,Schmidt's Table,Germany,Berlin,Burgers,4,3.8,16,2023-10-30,Large,148
+39,Pizza Corner,Italy,Milan,Pizza,1,3.7,18,2020-04-13,Medium,65
+40,Pizza Street Food,Italy,Turin,Pizza,4,4.1,22,2024-12-06,Medium,58
+41,Chinese Corner (Paris),France,Paris,Chinese,4,4.6,18,2020-12-04,Large,136
+42,Local cuisine & Co.,Sweden,Stockholm,Local cuisine,4,4.7,22,2024-04-05,Large,141
+43,The Local cuisine Plate,Germany,Berlin,Local cuisine,3,4.3,25,2023-05-04,Medium,83
+44,Mediterranean Street Food (Brussels),Belgium,Brussels,Mediterranean,4,5.0,17,2024-08-03,Large,129
+45,Burgers Street Food,Portugal,Lisbon,Burgers,4,4.0,18,2024-03-13,Medium,90
+46,Spanish Garden,Sweden,Stockholm,Spanish,4,3.4,23,2022-10-17,Large,148
+47,Janssens Bistro,Poland,Wroclaw,Spanish,1,4.5,25,2024-02-04,Medium,67
+48,Italian Street Food,Poland,Warsaw,Italian,4,3.4,24,2021-11-16,Large,127
+49,Weber's Table,Belgium,Brussels,French,3,3.8,32,2023-02-28,Large,125
+50,Casa Meyer,Portugal,Lisbon,Burgers,3,4.3,14,2024-12-15,Large,132
+51,Pizza Street Food (Copenhagen),Denmark,Copenhagen,Pizza,2,4.1,18,2020-06-16,Large,136
+52,Little Japanese,Italy,Rome,Japanese,4,4.0,28,2021-12-04,Large,117
+53,Turkish Garden,Italy,Turin,Turkish,2,3.6,20,2020-02-04,Small,30
+54,Pizza House,Sweden,Stockholm,Pizza,4,4.1,15,2022-11-22,Large,148
+55,Nilsson Bistro,Belgium,Brussels,Turkish,4,4.5,26,2024-03-27,Large,141
+56,Local cuisine Street Food,France,Marseille,Local cuisine,2,4.1,17,2020-03-17,Small,18
+57,Wagner Express,Poland,Warsaw,Vegan,2,3.8,19,2022-12-22,Medium,67
+58,Bella Muller,Netherlands,Amsterdam,Italian,4,3.6,23,2022-04-01,Small,43
+59,Italian Garden,Italy,Milan,Italian,2,3.8,27,2024-03-28,Large,118
+60,The Pizza Plate,Italy,Milan,Pizza,1,4.3,12,2021-03-11,Medium,64
+61,The Greek Plate,Italy,Rome,Greek,4,4.2,24,2020-11-17,Large,141
+62,Bella Kowalski (Cologne),Germany,Cologne,Thai,1,3.8,26,2020-07-06,Small,36
+63,Kowalski Express,Norway,Oslo,Chinese,3,3.2,26,2022-03-16,Large,124
+64,The Italian Spot,Norway,Oslo,Italian,3,4.3,26,2022-08-22,Medium,77
+65,Bella Weber,Spain,Madrid,Spanish,3,3.7,22,2024-12-23,Medium,71
+66,Kowalski's Table,Italy,Naples,Pizza,2,4.4,16,2022-07-10,Small,24
+67,Meyer Bistro,Spain,Barcelona,Local cuisine,1,3.8,29,2020-12-05,Large,129
+68,Mediterranean Garden,Denmark,Aarhus,Mediterranean,2,3.7,19,2023-10-14,Medium,70
+69,French Corner,Germany,Berlin,French,4,4.2,32,2020-05-01,Large,149
+70,The Thai Spot,Germany,Hamburg,Thai,2,5.0,26,2021-11-13,Large,124
+71,Casa Berg,France,Lyon,Indian,2,4.4,28,2023-07-16,Small,24
+72,Casa Janssens,France,Paris,Spanish,4,4.2,38,2021-05-17,Large,132
+73,Little Mediterranean,Austria,Vienna,Mediterranean,4,4.2,22,2023-03-21,Medium,58
+74,Peeters's Table,Netherlands,The Hague,Turkish,3,3.4,24,2022-06-15,Small,38
+75,Local cuisine House,Greece,Athens,Local cuisine,1,3.7,22,2025-02-26,Medium,72
+76,Italian Street Food (Milan),Italy,Milan,Italian,4,3.1,27,2021-07-22,Large,125
+77,Wagner's Table,Denmark,Copenhagen,Indian,4,4.8,33,2024-11-27,Large,142
+78,The Spanish Plate,Germany,Berlin,Spanish,4,4.7,25,2023-05-22,Large,123
+79,Nikolaou Express (Thessaloniki),Greece,Thessaloniki,Mediterranean,1,4.3,24,2024-01-22,Small,16
+80,Little Greek,Greece,Thessaloniki,Greek,1,4.2,22,2020-11-29,Large,135
+81,Bakery Garden,Sweden,Stockholm,Bakery,4,3.5,10,2020-02-07,Small,43
+82,Casa Wagner,Spain,Barcelona,Japanese,1,4.0,32,2023-12-16,Small,19
+83,Schmidt Deli,Germany,Munich,Vegan,3,4.8,18,2022-08-08,Small,24
+84,Nilsson Deli,Czechia,Brno,Spanish,2,4.2,17,2021-09-02,Medium,71
+85,Italian Corner,Italy,Rome,Italian,3,3.9,32,2024-11-07,Large,144
+86,Vegan & Co.,Poland,Warsaw,Vegan,2,3.4,17,2021-10-07,Large,120
+87,Vegan Garden,Netherlands,Amsterdam,Vegan,4,4.7,19,2022-05-07,Large,151
+88,The Spanish Plate (Munich),Germany,Munich,Spanish,2,4.1,34,2023-12-03,Small,35
+89,Nilsson Deli (Vienna),Austria,Vienna,Japanese,3,3.4,27,2025-03-18,Large,133
+90,Chinese Kitchen,Germany,Berlin,Chinese,4,3.7,21,2024-11-13,Large,123
+91,The Local cuisine Plate (Toulouse),France,Toulouse,Local cuisine,3,3.6,20,2023-07-14,Large,131
+92,Pizza Street Food (Amsterdam),Netherlands,Amsterdam,Pizza,4,4.0,11,2020-08-06,Large,140
+93,Bakery & Co. (Lisbon),Portugal,Lisbon,Bakery,3,4.2,11,2020-08-04,Large,120
+94,Pizza House (Rome),Italy,Rome,Pizza,1,3.9,19,2023-10-02,Large,133
+95,Jensen Deli,Austria,Vienna,Thai,3,4.4,27,2022-10-04,Medium,106
+96,Nikolaou Express (Amsterdam),Netherlands,Amsterdam,Chinese,3,4.1,20,2020-09-20,Medium,75
+97,Spanish Corner,Spain,Barcelona,Spanish,2,4.5,27,2023-10-07,Small,18
+98,The Pizza Plate (Brno),Czechia,Brno,Pizza,1,4.0,11,2025-02-06,Medium,50
+99,Indian Garden,Germany,Berlin,Indian,3,5.0,32,2020-05-09,Large,153
+100,Nikolaou Deli,Germany,Frankfurt,Chinese,1,3.9,23,2024-06-21,Small,33
+101,Little Pizza,Finland,Helsinki,Pizza,2,3.7,26,2021-11-12,Large,149
+102,The Thai Spot (Lyon),France,Lyon,Thai,3,3.7,26,2022-02-25,Small,27
+103,Pizza Street Food (Athens),Greece,Athens,Pizza,2,4.0,14,2023-11-19,Large,148
+104,Italian Garden (Barcelona),Spain,Barcelona,Italian,2,3.4,25,2021-05-03,Medium,52
+105,Lefevre Bistro,Finland,Tampere,Local cuisine,3,4.2,24,2020-11-06,Small,27
+106,Bella Silva,Czechia,Prague,Chinese,3,3.3,24,2025-03-21,Large,138
+107,Casa Bianchi,Denmark,Copenhagen,Japanese,4,4.2,28,2021-11-20,Large,149
+108,Little Local cuisine,Netherlands,Amsterdam,Local cuisine,4,3.6,20,2020-12-01,Large,138
+109,Bella Wagner,Germany,Berlin,Bakery,4,3.9,10,2023-09-26,Medium,69
+110,Mediterranean Street Food (Thessaloniki),Greece,Thessaloniki,Mediterranean,3,4.3,25,2021-03-04,Medium,61
+111,Bakery Street Food,France,Lyon,Bakery,3,5.0,18,2024-03-14,Small,8
+112,Pizza & Co.,Germany,Munich,Pizza,1,3.7,18,2020-05-19,Medium,37
+113,Virtanen's Table (Wroclaw),Poland,Wroclaw,Mexican,1,4.0,27,2022-10-22,Small,33
+114,Little French,Spain,Valencia,French,2,3.8,36,2022-03-08,Large,116
+115,Mediterranean Kitchen,France,Marseille,Mediterranean,2,3.8,25,2025-03-07,Small,22
+116,Janssens Deli,France,Paris,Bakery,4,3.8,10,2022-10-28,Large,143
+117,Garcia Bistro,France,Paris,French,3,4.4,33,2025-01-04,Large,149
+118,Greek Street Food,Netherlands,Amsterdam,Greek,4,3.9,31,2021-05-06,Small,45
+119,Mexican Corner,Poland,Warsaw,Mexican,4,5.0,26,2022-07-25,Medium,94
+120,Virtanen's Table (Paris),France,Paris,French,3,4.3,35,2024-05-28,Small,45
